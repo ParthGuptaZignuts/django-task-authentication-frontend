@@ -5,8 +5,9 @@ export default [
     icon: { icon: 'tabler-smart-home' },
   },
   {
-    title: 'Second page',
-    to: { name: 'second-page' },
-    icon: { icon: 'tabler-file' },
+    title: 'Companies',
+    to: { name: 'Companies' },
+    icon: { icon: 'tabler-building' },
   },
 ]
+
